@@ -1,0 +1,385 @@
+Privacy its rise and fall
+
+According to some , privacy was the result of the growth of the middle
+class who could afford better housing and their abode , even though
+humble , became their castle . Liberalization of laws such as the one
+that took the state out of the bedrooms recognized the right of people
+to be left alone . However , this was only at the governmental level
+since it had supreme power but the corporations were left to regulate
+themselves. At the end of the first gilded age, the need was felt to
+regulate the robber barons and their corporations . . This was done by
+the emergence of the workers unions and the need to share the riches
+with the worker . The later was implemented with a progressive tax
+system that supported the common good by taxing the haves to transfer
+to the have-nots .  This afforded the luxury of privacy to the not so
+rich! It must be noted that recently, the Supreme Court of the largest
+functioning democracy in the history of humankind has ruled that
+privacy is a human right : this in spite of an inane pronouncement of a
+kid who became fabulously rich and influential.
+
+
+The tools and technology that are the roots of the privacy
+exploitation required many developments: quite a number of these
+occurred in the mid 20th century. The first of these was the
+introduction of computers and the development of semiconductors, its
+miniaturization and increase in computing power.  The interconnection
+of computers and hence people was made possible with the introduction
+of the Internet. In the early days, access to the internet was limited
+to the academic communities, some businesses and government
+agencies. The introduction of the web and the development of the
+graphical browsers opened up the internet to an increasing number of
+users.
+
+
+The offer of web-based free email service by start ups fueled by
+venture capitalists allowed these companies the continuous access to
+all email communications of an increasing number of users worldwide!
+The undeclared charge for this free service was and continues to be
+the contents of their messages and these users who in turn attracted
+more users and more contents; there being no laws to protect the
+privacy of the contents of these messages, which are in plain
+text. This clear text being the raw material for tailoring targeted
+publicity to the users of this free email service was the raw material
+used initially for monetizing the ‘free’ service.
+
+The graphical web browser also opened up a new method of communicating
+with family and friends. However, since the majority of users were
+seduced by the allure of setting up a free web presence without the
+need to be tech-savvy, this was the start of what we now call online
+social networks(OSN). The OSN attracted not only friends and family
+but complete strangers. This attraction of becoming a celebrity has
+been the force that pushed up the number of such users to billions. To
+this date, instead of recognizing themselves as publishers, these OSN
+claim to be simple platforms and take no responsibility for the
+content they provide which has created many problems, including
+bullying, extreme self-harm, fake news, genocide and terrorist act
+co-ordination.
+
+The web opened up the internet to the non-tech savvy user. Instead of
+creating tools to make the Internet service such as email to be used
+privately, securely and easily accessible to the non-tech savvy or
+offering it via the national postal service, the unimaginative
+politicians let it be provided by venture capitalists.
+
+A system such as the web robot and allowing any robot to be served
+freely by the web servers was one of the biggest blunders made by the
+web community.  The taking over of the web by the commercial players
+and facilitating tracking in the web browser are other blunders driven
+by monetizing the web. It is reported that there is an attempt to undo
+the harm in the new web but again, some of the players are the same as
+in the first web, and the same commercial pressure would jeopardize
+this solution.
+
+The cell phone which started out as a bulky device profited from the
+miniaturization of semiconductor circuits and started getting smaller,
+lighter and more popular. The addition of a screen and more computing
+power and better and better networks transformed the cell phone from
+an emergency device to a personal communication device. The tech giant
+companies made sure that the new ‘smart’ cell phones have access to
+their services and the cell phone replaced the personal computer and
+the land line. The cell phone system also allowed bypassing the need
+of setting up an extensive telecommunication infrastructure and the
+need for laying and maintaining cabling and relay stations. This was
+replaced by cell phone towers and relay stations. The mobile system
+speeded up communication in emerging economies as well as the
+developed ones.
+
+
+With the growth of the internet and the mobile communication infrastructure, the opportunity of gathering data on individuals from their communications and interactions became relatively easy. The set up of the Global Position
+System in the early seventies by the USAian government  along with the
+worldwide free access to the Standard Positioning Service (SPS) provided precise location information. A system to use the GPS location is built into the
+current generation of mobile hand sets. The many applications available for
+the mobile phone made it possible to introduce services many of which require
+SPS. The use of the global positioning system allowed the various applications
+running on cell phones to keep abreast of the location of the user. Some of
+these, useful to the user for applications such as directions and maps, allowed
+the marketing of nearby businesses to the cell phone user.
+
+
+Furthermore, the applications on the mobile system allowed their
+developer to precisely know the whereabouts of the mobile device and
+hence its owner.  These locations are recorded by the application
+developer and the supplier of the mobile operating system. Along with
+the web and the cell technology, the access to users data in their
+communications and by tracking their use of the web and applying the
+advances in computer science including data management and algorithms
+for machine learning etc. created what Zuboff calls Surveillance
+Capitalism. The exploitation of personal data by private
+corporations is finally drawing the attention of scholars, and
+columnists and it is finally reaching the masses. The addiction to the
+cell phone means that one is constantly looking at it even when out in
+company with friends and family for a meal or just walking around.
+
+
+The recognization of corporations as a legal entity made it possible
+to put in power politicians which reversed the progressive nature of
+the taxation in the wrong belief that there would be a trickled down
+effect from the haves to the have-nots. Unfortunately, this effect has
+not occurred and the growth of the middle class has been halted and
+reversed. Competition by having another company provide similar,
+privacy oriented service, seems hardly possible. Because of the large
+share of the market another similar OSN, even one such as Google+ did
+not succeed.
+
+1.1   Exposure to Privacy in the Computer Science Curriculum
+
+Many of the current tech giants are headed by people who may have
+followed a computer science program and/or “tech-geeks” some of them
+being drop outs.  One can safely assume that the majority of the
+coders could have had a computer science related education. However
+their exposure to humanities and social sciences would have been very
+limited if null as it is in many CS programs. The curriculum
+recommendation from ACM/IEEE includes the following: “A computer
+engineering curriculum must include preparation for professional
+practice as an integral component. These practices encompass a wide
+range of activities including management, ethics and values, written
+and oral communication, working as part of a team, and remaining
+current in a rapidly changing discipline.” However not much is said
+about issues of privacy and security except if it is not
+ethical. However, with the recklessness shown by the robber barons of
+the late 20th - early 21st century who go ahead like bulls in a china
+shop and seem to have no regards for a person’s privacy.
+
+
+The sample curriculum for Computer science which runs into hundreds of
+pages includes exposure of the student to Social Issues and
+Professional Practice and the documents point out that “Graduates
+should recognize the social, legal, ethical, and cultural issues
+inherent in the discipline of computing. They must further recognize
+that social, legal, and ethical standards vary internationally. They
+should be knowledgeable about the interplay of ethical issues,
+technical problems, and aesthetic values that play an important part
+in the development of computing systems. Practitioners must understand
+their individual and collective responsibility and the possible
+consequences of failure.  They must understand their own limitations
+as well as the limitations of their tools.” In the section SP/Privacy
+and Civil Liberties which is 2 Core-Tier1 hours where philosophical,
+legal, privacy tools and implications and related issues are
+presented. This hardly seems adequate and is likely to run off the
+proverbial duck’s back. Since some of the aspects of this
+responsibility is not encouraged to be practiced in the rest of the
+program the final impact is almost nil. What is puzzling is that in
+Appendix C of this document where course exemplars are given, there is
+not a single one just for SP/Privacy and Civil Liberties. One, given
+on page 304 on Social Issues and Professional Practice, is part of a
+course which includes Human Computer Interaction and Graphics and
+Visualization. Another example is Ethics & the Information Age ,
+(p436) which however does not touch on the philosophical issue of
+property, personhood and the right of a person to privacy. In Stanford
+university’s CS program the course CS181 – Computers, Ethics, and
+Public Policy allocates a scant 1.6 hours to Privacy & Civil Liberties
+ (p501).
+
+The privacy and security framework of the Canadian Institute for Health
+Information (CIHI), an independent, not-for-profit organization provides essential information on Canada’s health systems and the health of Canadians. Most
+engineers and software designers are not very well exposed to privacy and may
+have been exposed minimally to security. However they and the marketing
+people would likely ignore most of the issues in such frameworks.
+
+The privacy and security page of the USAian Federal Trade
+Commission(FTC) has the following about data security: “Many companies
+keep sensitive personal information about customers or employees in
+their files or on their network. Having a sound security plan in place
+to collect only what you need, keep it safe, and dispose of it
+securely can help you meet your legal obligations to protect that
+sensitive data. The FTC has free resources for businesses of any
+size”.  The guidelines are only for self regulation and the penalty
+is fairly small; as reported recently, about 22 million USD. The
+issue addressed by FTC is based on the agreement it had with Facebook
+for privacy but the FTC claims that the company “deceived consumers by
+telling them they could keep their information on Facebook private,
+and then repeatedly allowed it to be shared and made public”
+. Compare this paltry sum with the one in the guidelines for the EU
+which call for maximum penalties or 20 million Euros or up to 4% of
+the world wide revenue for a single breach which can add up to
+billions of Euros. In the USAian system the privacy issues are
+being handled by a trade commission, not a human rights agency.
+
+Even though there is so much concern about security, there have been
+some large breaches in the recent years. Many systems store sensitive
+information such as passwords in clear text. The fact that the tech
+giants share information with third parties is enough for one to opt
+out of any system that needs third parties to carry on their central
+tasks.
+
+2  Source of Privacy Violations
+
+The biggest sources of privacy violations are invisible. On-line
+shopping requires passing valuable personal information to big as well
+as small retailers. Some of them are fly-by-night ones while others
+are multi-billion dollar enterprises.  Many small fries are on the
+coattails of specialized shopping portals. Many of these retailers, to
+increase their revenues, turn around and sell the personal information
+to data aggregators. The portals also could have access to such data
+and can use it to direct publicity for products and service to the
+users and with use of cookies and trackers all this data goes into
+many different data repositories to be exploited, ad infinitum.
+
+While shopping or doing any operation on line,, one is tracked by a
+myriad of trackers. A case in point is a session with one’s own
+bank. If one has a tracker reporting add-on in the browser, e.g.,
+Privacy Badger, one see the trackers used by these banks to track
+their own costumers and share the data with these third parties! A
+question sent to the bank of why this is being done is never responded
+to!
+
+2.1   A Typical privacy agreement
+
+When a person signs up as a user of most of the ‘free’ on-line
+services or to services such as mobile phone supplier, she accepts,
+unread much less with a clear understanding of what it implies, their
+privacy policy which is linked to equally unread and not understood
+data policy. These policies may be updated without the users’
+consent. As an example if one considers the privacy policy  and the
+data policy  of Facebook, which runs to, in the version currently
+accessible, 7 and 9 pages respectively; it is no wonder no one reads
+these and assumes that these privacy policies mean that the site will
+keep her personal information private and would not share it without
+her permission. Little does the unsuspecting person knows that she
+is giving away a free license to persons and organizers who believe
+that privacy is no longer a social norm.
+
+
+The user is required to let the supplier of the service reserve the
+right to process, sell, trade or rent aggregated or the users
+information which is anonymized.  It is well known by now that most
+anonymizing scheme can be thwarted by combining information from
+multiple sources. The information that is up for grab includes1
+
+
+Personal information: including name, mailing(postal) address, email
+address, telephone number, IDs of accounts, device identifiers, PIN,
+service provider information, account including credit card
+credentials, passwords, records of all communications as well as
+details of contacts.
+
+Applications: All providers of applications have access to not only
+their own application data but also may share this data with other
+applications on the device. This looks like a modus operandi of all
+application developers and 1 The following is based on the
+privacy/data agreement of a number of organization including - Apple,
+Blackberry, Google, Facebook, etc. as Zuboff says, anything that is
+not guarded would be claimed by these new pirates.
+
+Back-up data on cloud: Would have access to users’ personal information
+including contacts, email addresses, calendar, memo, tasks, display pictures,
+status messages, photos, audio, videos – the stated reason is to be able to
+restore this information.
+
+Cookies: These were introduced in the web space to overcome the
+stateless nature of the web protocol. The reason for a stateless
+nature of the web was due to the philosophy of free sharing of
+knowledge. However, cookies and their derivatives have morphed into a
+nefarious form to facilitate surveillance.
+
+Financial Information: Any transaction through the system may require
+credit status checking etc. any or all of which could be recorded and
+shared with other parties.
+
+Third party information: The service provider may combine your
+information with ones obtained from other sources.
+
+Retention of Personal information: Even after the expiry of any
+direct association with the service provided it could be retained
+perhaps in an anonimized form and may be used perpetually.
+
+International operations and onward transfers: The service provider,
+would require you to consent that your personal information may be collected,
+used, processed, transferred or stored in multiple jurisdictions.
+
+Communication: The service provider may communicate information,
+surveys, marketing materials, advertisements or personalized
+content. The service provider may share your personal information
+within the service provider and with their service providers,
+financial, insurance, legal, accounting or other advisors.
+
+Here are some of the things these systems have your permission to lay
+claim on! Any information and content you provide or they collect from
+creating or sharing content, contents of messages or communications
+with others. and all information provided while using any of their
+products including information of the account. They collect details
+about your connections, address books, logs, meta-data and contents of
+all communications including all SMSs and emails; pattern of usage
+including what, when, where, who (and use their algorithms to try to
+figure out why!). All transactions made which includes purchases which
+would include the details of the credit/debit cards used,
+authentication information, addresses and contact information about
+the transaction. In addition they have access to actions taken by your
+contacts and the information they provide. Your location information
+is used to determine where you live, where you go, what events you
+attend and where you are at any point in time. All this information is
+used to create targeted publicity which is tailored to influence you,
+using your foibles determined by their unknown algorithms.
+
+
+The proliferation of the internet via the medium of the web to offer
+all types of services requires a user to sign-up using a user name and
+a password. Since more and more services, such as news,
+financial. Governmental. social and commercial are now offered through
+the web a typical user may have scores of user IDs and passwords. The
+tech giants, to increase their presence, have offered to enter into
+an agreement with many of these services to let the users employ these
+tech giants credentials to log into these services. Thus the tech
+giants can trace the user not only on their own platform but can have
+access to what other services are being used and whatever other
+information the target service may provide the tech giant. What and
+how the information these giants would glean besides associating yet
+another data point in the profiles for these users is not advertised
+or communicated to the user.
+
+3 Privacy violation at any level of sharing
+
+One of the culprits in the current loss of privacy is the USAian
+system, its constitution and the outlook of its capitalistic
+system. Whereas there are some forms of restraint for the USAian
+governments collecting and using personal information in its
+constitution and amendments, the private sector is left alone to do as
+it pleases with a laissez faire self policing attitude. What the
+citizens do not trust the government to spy on is allowed to the
+private corporations.  That self regulation does not work is amply
+illustrated in the recent Boeing 737 Max’s design flaws which led to
+two deadly crashes. An optional display that showed the disagreement
+of the angle of attack sensors on the Boeing Max required additional
+cost in the millions for the plane.
+
+Furthermore, the fact that Boeing was able to get away with not having
+the Federal Aviation Agency(FAA) really act as an independent quality
+control shows that self regulation is unrelaible. According to ,
+. “The problems were apparently compounded by FAA rules allowing
+manufacturers to essentially self-certify aircraft. Boeing reportedly
+tried to speed up the process in order to catch its rival Airbus
+A320neo, and pushed the FAA to give it more responsibility. There
+wasn’t a complete and proper review of the documents,” a former Boeing
+engineer said. “[The] review was rushed to reach certain certification
+dates.” . The failure of the correct software and the required
+equipment for a high priced air-frame leads one to conjecture the type
+of security employed by many of these tech giants who have no
+regulation, no oversight and no competition and pay little taxes. They
+fail to reveal breach of security or the lack of it for months and
+years. According to the press, Google did not reveal a security breach
+for fear of regulations. 
+
+With current internet and wireless technology, people actually pay to use the
+free services in the form of internet connection monthly charges, buy and pay
+the connection fees for ‘smart’ devices that allow them to be tracked. Unlike
+criminals who are tracked by a tracking device imposed on them most consumers
+now carry a tracking device and pay for it handsomely, every month including
+for the bandwidth used for tracking.
+
+The result of the USAian system, where the tech giants are based, is
+that the private sector has laid claim on personal and private
+information of sers of the myriad of devices that they own. Most of
+the smart devices are controlled by just two operating platforms again
+controlled by USAian tech giants. In addition, they control the
+application stores that users can download the ‘apps’ from and earn a
+percent of the fees for these applications. One wonders if this is not
+an example of a monopoly! Example of such laying a stake, like the one
+used in the gold rush of yore, is to claim all human experience as
+free raw material without any concern for individual rights and
+without any payment of any source. As Zuboff compares these to the
+edict recited by the Spanish conquistadors and later the settlers of
+the west in what is now known as the U. S. A. This edict gave the
+conquistadors and the settlers some form of divine rights which
+allowed them to usurp the lands of the existing people and displaced
+them or wiped them out.
+
